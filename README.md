@@ -1,6 +1,6 @@
 # PomeType
 
-PomeType 是由北屯市石榴文化传媒有限责任公司（ShiliuX）开发的 Windows 10/11 中文语音输入与 AI 文字整理工具。
+PomeType 是由北屯市石榴文化传媒有限责任公司旗下开发团队 ShiliuX 开发的 Windows 10/11 中文语音输入与 AI 文字整理工具。
 
 官网：<https://www.shiliux.com/pometype>
 
