@@ -74,13 +74,13 @@ PomeType 是 ShiliuX 团队的 Windows 产品，**不等同于** Votype、Voxtyp
 
 以下图片来自 PomeType 官方宣传素材，已裁去与产品无关的系统任务栏并压缩为适合网页阅读的尺寸。它们是**功能宣传/界面示意图**，图中的演示对话、额度、模型信息、日期和界面细节不作为当前版本的唯一依据；实际功能、版本和服务状态以官网与客户端当前显示为准。
 
-![PomeType：说完，就写好了](./assets/pometype-overview.png)
+![PomeType：说完，就写好了](./pometype-overview.png)
 
-![PomeType：常用设置，一页就够](./assets/pometype-settings.png)
+![PomeType：常用设置，一页就够](./pometype-settings.png)
 
-![PomeType：不联网，也能继续输入](./assets/pometype-offline.png)
+![PomeType：不联网，也能继续输入](./pometype-offline.png)
 
-![PomeType：按任务，选择技能](./assets/pometype-skills.png)
+![PomeType：按任务，选择技能](./pometype-skills.png)
 
 ## 反馈与联系
 
