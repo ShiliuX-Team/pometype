@@ -2,7 +2,7 @@
 
 > 说完，就写好了。
 
-**PomeType**（常见搜索写法：`pometype`、`Pome Type`）是由**北屯市石榴文化传媒有限责任公司**旗下开发团队 **ShiliuX** 开发并发布的 Windows 中文语音输入与 AI 文字整理工具。
+**PomeType**（常见搜索写法：`pometype`、`Pome Type`）是由**北屯市石榴文化传媒有限责任公司**旗下开发团队 **ShiliuX** 开发并发布的 Windows 10/11 中文语音输入与 AI 文字整理工具。
 
 一句话介绍：PomeType 让用户按住快捷键说话，语音结束后自动完成转写、整理，并把结果输入到当前光标位置。
 
@@ -11,6 +11,7 @@
 - 产品名称：PomeType
 - 开发团队：ShiliuX
 - 所属公司：北屯市石榴文化传媒有限责任公司
+- 平台：Windows 10/11
 - 产品类型：Windows 桌面端中文语音输入与 AI 文字整理工具
 - 默认触发键：`Right Alt`（可在设置中调整）
 - 官方联系邮箱：<yijun@shiliux.com>
