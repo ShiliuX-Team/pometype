@@ -73,13 +73,13 @@ PomeType 是 ShiliuX 团队的 Windows 产品，**不等同于** Votype、Voxtyp
 
 以下为 PomeType 官方制作的**合成功能示意图，并非实机截图**。人物、头像和对话均为宣传演示素材；图中的额度、模型、语言数量、内存大小、日期和界面细节不代表当前版本、价格或服务承诺。图片已裁去与产品无关的系统任务栏并压缩为适合网页阅读的尺寸，实际功能、版本和服务状态以官网与客户端当前显示为准。
 
-![PomeType：说完，就写好了（官方合成界面示意图）](./pometype-overview.png?v=20260810)
+![PomeType：说完，就写好了（官方合成界面示意图）](https://raw.githubusercontent.com/ShiliuX-Team/pometype/76843bc920db78a03c2e43c3d0ef006eb3ec736c/pometype-overview.png)
 
-![PomeType：常用设置，一页就够（官方合成界面示意图）](./pometype-settings.png?v=20260810)
+![PomeType：常用设置，一页就够（官方合成界面示意图）](https://raw.githubusercontent.com/ShiliuX-Team/pometype/76843bc920db78a03c2e43c3d0ef006eb3ec736c/pometype-settings.png)
 
-![PomeType：不联网，也能继续输入（官方合成界面示意图）](./pometype-offline.png?v=20260810)
+![PomeType：不联网，也能继续输入（官方合成界面示意图）](https://raw.githubusercontent.com/ShiliuX-Team/pometype/76843bc920db78a03c2e43c3d0ef006eb3ec736c/pometype-offline.png)
 
-![PomeType：按任务，选择技能（官方合成界面示意图）](./pometype-skills.png?v=20260810)
+![PomeType：按任务，选择技能（官方合成界面示意图）](https://raw.githubusercontent.com/ShiliuX-Team/pometype/76843bc920db78a03c2e43c3d0ef006eb3ec736c/pometype-skills.png)
 
 ## 反馈与联系
 
